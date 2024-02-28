@@ -1,0 +1,23 @@
+{
+  "name": "challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jalynnwhite/SQL.git"
+  },
+  "author": "Jalynn White",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jalynnwhite/SQL/issues"
+  },
+  "homepage": "https://github.com/Jalynnwhite/SQL#readme",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "mysql2": "^3.9.1"
+  }
+}
